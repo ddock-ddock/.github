@@ -1,12 +1,7 @@
-## Hi there 👋
+## dkdk.kr 👋
+- [칸반보드](https://github.com/orgs/ddock-ddock/projects/24/views/1)
+- [조직이슈](https://github.com/orgs/ddock-ddock/projects/1)
+- [DOCS](https://github.com/ddock-ddock/docs)
+- [청사진](https://github.com/orgs/ddock-ddock/projects/27)
+- [QA](https://github.com/ddock-ddock/qa)
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
