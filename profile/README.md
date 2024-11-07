@@ -8,7 +8,9 @@
 
 ### 매뉴얼
 - [VCworks](https://guide.vcworks.kr/core/)
+  - https://github.com/ddock-ddock/ddock-ddock.github.io
 - [STworks](https://guide.stworks.kr/core/)
+  - https://github.com/ddock-ddock/stworks.github.io
 
 ### 라이브 서비스
 - https://vcworks.kr
