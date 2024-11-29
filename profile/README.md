@@ -16,5 +16,15 @@
 - https://vcworks.kr
 - https://stworks.kr
 
+### 설계 단위 레포
+#### 기획설계
+- https://github.com/ddock-ddock/design
+####  백엔드설계
+- https://github.com/ddock-ddock/ddock_api
+####  프론트설계
+- https://github.com/ddock-ddock/front
+
 ### 회사소개
 - http://ddock.kr
+
+
