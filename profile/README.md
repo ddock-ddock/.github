@@ -4,7 +4,6 @@
 - [조직이슈](https://github.com/orgs/ddock-ddock/projects/1)
 - [청사진](https://github.com/orgs/ddock-ddock/projects/27)
 - [QA](https://github.com/ddock-ddock/qa)
-- [DOCS](https://github.com/ddock-ddock/docs)
 
 ### 매뉴얼
 - [VCworks](https://guide.vcworks.kr/core/)
@@ -18,6 +17,7 @@
 
 ### 설계 단위 레포
 #### 기획설계
+- [DOCS](https://github.com/ddock-ddock/docs)
 - https://github.com/ddock-ddock/design
 ####  백엔드설계
 - https://github.com/ddock-ddock/ddock_api
