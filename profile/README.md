@@ -11,6 +11,7 @@
   - https://github.com/ddock-ddock/ddock-ddock.github.io
 - [STworks](https://guide.stworks.kr/core/)
   - https://github.com/ddock-ddock/stworks.github.io
+- [지식회고](https://github.com/ddock-ddock/docs/discussions/categories/%EC%A7%80%EC%8B%9D%ED%9A%8C%EA%B3%A0)
 
 ### 라이브 서비스
 - https://vcworks.kr
