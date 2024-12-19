@@ -17,13 +17,17 @@
 - https://vcworks.kr
 - https://stworks.kr
 
+### 모바일
+- [안드로이드](https://play.google.com/store/apps/details?id=com.vcworks.mobile&hl=ko)
+- [iOS](https://apps.apple.com/kr/app/vc-works/id6738978723)
+
 ### 설계 단위 레포
-#### 기획설계
+#### 제품설계
 - [DOCS](https://github.com/ddock-ddock/docs)
 - https://github.com/ddock-ddock/design
-####  백엔드설계
+#### 백엔드설계
 - https://github.com/ddock-ddock/ddock_api
-####  프론트설계
+#### 프론트설계
 - https://github.com/ddock-ddock/front
 
 ### 회사소개
