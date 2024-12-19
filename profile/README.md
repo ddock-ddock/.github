@@ -24,6 +24,7 @@
 
 ### 라이브 서비스
 - https://vcworks.kr
+  - https://bi.vcworks.kr
 - https://stworks.kr
 
 #### 모바일
