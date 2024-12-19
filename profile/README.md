@@ -6,6 +6,15 @@
 - [QA](https://github.com/ddock-ddock/qa)
 - [공지사항](https://github.com/ddock-ddock/docs/discussions/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD)
 
+### 설계 관리
+#### 제품설계
+- [DOCS](https://github.com/ddock-ddock/docs)
+- https://github.com/ddock-ddock/design
+#### 백엔드설계
+- https://github.com/ddock-ddock/ddock_api
+#### 프론트설계
+- https://github.com/ddock-ddock/front
+
 ### 매뉴얼
 - [VCworks](https://guide.vcworks.kr/core/)
   - https://github.com/ddock-ddock/ddock-ddock.github.io
@@ -17,18 +26,9 @@
 - https://vcworks.kr
 - https://stworks.kr
 
-### 모바일
+#### 모바일
 - [안드로이드](https://play.google.com/store/apps/details?id=com.vcworks.mobile&hl=ko)
 - [iOS](https://apps.apple.com/kr/app/vc-works/id6738978723)
-
-### 설계 단위 레포
-#### 제품설계
-- [DOCS](https://github.com/ddock-ddock/docs)
-- https://github.com/ddock-ddock/design
-#### 백엔드설계
-- https://github.com/ddock-ddock/ddock_api
-#### 프론트설계
-- https://github.com/ddock-ddock/front
 
 ### 회사소개
 - http://ddock.kr
