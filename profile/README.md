@@ -2,6 +2,7 @@
 ### 개발 관리
 - [칸반보드](https://github.com/orgs/ddock-ddock/projects/24/views/1)
 - [조직이슈](https://github.com/orgs/ddock-ddock/projects/1)
+- [VoCHub](https://github.com/orgs/ddock-ddock/projects/42)
 - [청사진(로드맵)](https://github.com/orgs/ddock-ddock/projects/27)
 - [QA](https://github.com/ddock-ddock/qa)
 - [공지사항](https://github.com/ddock-ddock/docs/discussions/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD)
