@@ -10,7 +10,7 @@
 ### 설계 관리
 #### 제품설계
 - [DOCS](https://github.com/ddock-ddock/docs)
-- https://github.com/ddock-ddock/design
+- 기획전용: https://github.com/ddock-ddock/design
 #### 백엔드설계
 - https://github.com/ddock-ddock/ddock_api
 #### 프론트설계
@@ -30,11 +30,14 @@
 - https://vcworks.kr
   - https://bi.vcworks.kr
 - https://stworks.kr
+- https://lpworks.kr
 
 #### 모바일
-- [안드로이드](https://play.google.com/store/apps/details?id=com.vcworks.mobile&hl=ko)
-- [iOS](https://apps.apple.com/kr/app/vc-works/id6738978723)
+- [VCworks 안드로이드](https://play.google.com/store/apps/details?id=com.vcworks.mobile&hl=ko)
+- [VCworks iOS](https://apps.apple.com/kr/app/vc-works/id6738978723)
+- [LPworks 안드로이드](https://play.google.com/store/apps/details?id=com.lpworks.mobile&hl=ko)
+- [LPworks iOS](https://apps.apple.com/kr/app/lpworks/id6749229576)
 
 ### 회사소개
-- http://ddock.kr
+- https://ddock.kr
 
